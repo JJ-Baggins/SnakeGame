@@ -1,3 +1,3 @@
 # start
-This is repository I made to learn how to github
-I should have made code to upload herer
+A snake game I made during a 100 days of Python course
+This is also my attempt to learn github
